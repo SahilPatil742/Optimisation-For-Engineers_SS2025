@@ -1,6 +1,6 @@
 # Optimisation-For-Engineers_SS2025
 
-Contains Various Optimisation Algorithms
+Contains Various Optimisation Algorithms : 
 * **[LAB01]:** PrecCGSolver.py and NewtonDescent.py
 * **[LAB02]:** WolfePowellSearch.py and inexactNewtonCG.py
 * **[LAB03]:** projectedBacktrackingSearch.py and projectedBFGSDescent.py
